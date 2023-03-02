@@ -1,0 +1,1 @@
+(()=>{"use strict";document.write("Hello, world is 1234!"),document.write("Hello, world is 99222!")})();

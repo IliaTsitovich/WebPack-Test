@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(9, 116, 116);
+}
+.container {
+    width: 100px;
+    height: 120px;
+    background-color: rgb(207, 154, 90);   
+    
+}
